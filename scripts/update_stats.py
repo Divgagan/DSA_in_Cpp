@@ -54,7 +54,7 @@ def count_topic_solutions(topic: str) -> int:
 def progress_bar(value: int, target: int, width: int = 10) -> str:
     percent = 0 if target == 0 else min(100, round((value / target) * 100))
     filled = min(width, round((percent / 100) * width))
-    return f"`{'█' * filled}{'░' * (width - filled)}` {percent}%"
+    return f"`[{'#' * filled}{'-' * (width - filled)}]` {percent}%"
 
 
 def collect_metrics() -> dict:

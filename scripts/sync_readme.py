@@ -55,7 +55,7 @@ def weekly_activity() -> str:
     lines = ["```text"]
     for day in days:
         count = min(10, counts[day])
-        lines.append(f"{day}  {'█' * count}{'░' * (10 - count)}")
+        lines.append(f"{day}  {'#' * count}{'-' * (10 - count)}")
     lines.append("```")
     return "\n".join(lines)
 

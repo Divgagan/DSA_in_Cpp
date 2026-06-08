@@ -1,8 +1,8 @@
-s<div align="center">
+<div align="center">
 
 # DSA in C++
 
-### A professional, topic-wise Data Structures and Algorithms repository for interview preparation, placements, contests, and long-term mastery.
+### A structured DSA repository in C++17 covering Arrays, Trees, Graphs, DP, and more.
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Gagan747-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -28,7 +28,9 @@ s<div align="center">
 
 ## Repository Snapshot
 
-This repository by **Gagan Diwakar** is designed as a clean, recruiter-friendly engineering portfolio. Every topic has its own folder, topic README, and starter solution template so problems can be added consistently over time.
+A structured DSA repository in C++17 covering Arrays, Trees, Graphs, DP, and more.
+Each problem includes clean, optimized solutions with time & space complexity analysis,
+built for placement interviews, competitive programming, and continuous learning.
 
 <!-- STATS:START -->
 | Metric | Value |
@@ -48,41 +50,41 @@ This repository by **Gagan Diwakar** is designed as a clean, recruiter-friendly 
 | Build style | Single-file competitive programming solutions |
 | Documentation | Markdown, Shields.io, SVG assets |
 | Automation | Python 3, GitHub Actions |
-| Practice platforms | LeetCode, GeeksForGeeks, Codeforces, AtCoder, CodeChef |
+| Practice platforms | LeetCode, GeeksForGeeks |
 
 ## Repository Structure
 
 ```text
 DSA_in_C++/CPP
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── BST/
-├── Heap/
-├── Hashing/
-├── Recursion/
-├── Backtracking/
-├── Greedy/
-├── BinarySearch/
-├── SlidingWindow/
-├── TwoPointers/
-├── BitManipulation/
-├── Graphs/
-├── DynamicProgramming/
-├── Tries/
-├── SegmentTree/
-├── DisjointSet/
-├── Math/
-├── PatternWise/
-├── ContestProblems/
-├── General/
-├── assets/
-├── scripts/
-├── templates/
-└── .github/workflows/
+|-- Arrays/
+|-- Strings/
+|-- LinkedList/
+|-- Stack/
+|-- Queue/
+|-- Trees/
+|-- BST/
+|-- Heap/
+|-- Hashing/
+|-- Recursion/
+|-- Backtracking/
+|-- Greedy/
+|-- BinarySearch/
+|-- SlidingWindow/
+|-- TwoPointers/
+|-- BitManipulation/
+|-- Graphs/
+|-- DynamicProgramming/
+|-- Tries/
+|-- SegmentTree/
+|-- DisjointSet/
+|-- Math/
+|-- PatternWise/
+|-- ContestProblems/
+|-- General/
+|-- assets/
+|-- scripts/
+|-- templates/
+`-- .github/workflows/
 ```
 
 ## DSA Roadmap Tracker
@@ -90,31 +92,31 @@ DSA_in_C++/CPP
 <!-- ROADMAP:START -->
 | Topic | Status | Solved | Target | Progress |
 |---|---|---:|---:|---|
-| Arrays | In Progress | 0 | 50 | `░░░░░░░░░░` 0% |
-| Strings | In Progress | 0 | 40 | `░░░░░░░░░░` 0% |
-| LinkedList | In Progress | 0 | 30 | `░░░░░░░░░░` 0% |
-| Stack | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| Queue | In Progress | 0 | 20 | `░░░░░░░░░░` 0% |
-| Trees | In Progress | 0 | 45 | `░░░░░░░░░░` 0% |
-| BST | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| Heap | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| Hashing | In Progress | 0 | 35 | `░░░░░░░░░░` 0% |
-| Recursion | In Progress | 0 | 30 | `░░░░░░░░░░` 0% |
-| Backtracking | In Progress | 0 | 30 | `░░░░░░░░░░` 0% |
-| Greedy | In Progress | 0 | 35 | `░░░░░░░░░░` 0% |
-| BinarySearch | In Progress | 0 | 35 | `░░░░░░░░░░` 0% |
-| SlidingWindow | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| TwoPointers | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| BitManipulation | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| Graphs | In Progress | 0 | 60 | `░░░░░░░░░░` 0% |
-| DynamicProgramming | In Progress | 0 | 75 | `░░░░░░░░░░` 0% |
-| Tries | In Progress | 0 | 20 | `░░░░░░░░░░` 0% |
-| SegmentTree | In Progress | 0 | 25 | `░░░░░░░░░░` 0% |
-| DisjointSet | In Progress | 0 | 20 | `░░░░░░░░░░` 0% |
-| Math | In Progress | 0 | 35 | `░░░░░░░░░░` 0% |
-| PatternWise | In Progress | 0 | 50 | `░░░░░░░░░░` 0% |
-| ContestProblems | In Progress | 0 | 50 | `░░░░░░░░░░` 0% |
-| General | In Progress | 0 | 30 | `░░░░░░░░░░` 0% |
+| Arrays | In Progress | 0 | 50 | `[----------]` 0% |
+| Strings | In Progress | 0 | 40 | `[----------]` 0% |
+| LinkedList | In Progress | 0 | 30 | `[----------]` 0% |
+| Stack | In Progress | 0 | 25 | `[----------]` 0% |
+| Queue | In Progress | 0 | 20 | `[----------]` 0% |
+| Trees | In Progress | 0 | 45 | `[----------]` 0% |
+| BST | In Progress | 0 | 25 | `[----------]` 0% |
+| Heap | In Progress | 0 | 25 | `[----------]` 0% |
+| Hashing | In Progress | 0 | 35 | `[----------]` 0% |
+| Recursion | In Progress | 0 | 30 | `[----------]` 0% |
+| Backtracking | In Progress | 0 | 30 | `[----------]` 0% |
+| Greedy | In Progress | 0 | 35 | `[----------]` 0% |
+| BinarySearch | In Progress | 0 | 35 | `[----------]` 0% |
+| SlidingWindow | In Progress | 0 | 25 | `[----------]` 0% |
+| TwoPointers | In Progress | 0 | 25 | `[----------]` 0% |
+| BitManipulation | In Progress | 0 | 25 | `[----------]` 0% |
+| Graphs | In Progress | 0 | 60 | `[----------]` 0% |
+| DynamicProgramming | In Progress | 0 | 75 | `[----------]` 0% |
+| Tries | In Progress | 0 | 20 | `[----------]` 0% |
+| SegmentTree | In Progress | 0 | 25 | `[----------]` 0% |
+| DisjointSet | In Progress | 0 | 20 | `[----------]` 0% |
+| Math | In Progress | 0 | 35 | `[----------]` 0% |
+| PatternWise | In Progress | 0 | 50 | `[----------]` 0% |
+| ContestProblems | In Progress | 0 | 50 | `[----------]` 0% |
+| General | In Progress | 0 | 30 | `[----------]` 0% |
 <!-- ROADMAP:END -->
 
 ## Progress Tracking
@@ -131,8 +133,6 @@ DSA_in_C++/CPP
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Gagan747?theme=dark&font=Inter&ext=contest)
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Gagan747?theme=dark&font=Inter&ext=heatmap)
-
 </div>
 
 | Metric | Widget |
@@ -141,22 +141,22 @@ DSA_in_C++/CPP
 | Ranking | Included in LeetCode card |
 | Contest rating | Included through contest extension |
 | Easy / Medium / Hard | Included in LeetCode card |
-| Heatmap | Included through heatmap extension |
+| Heatmap | Available on the LeetCode profile |
 
 ## GeeksForGeeks Profile
 
 <div align="center">
 
-[![GFG Profile](https://img.shields.io/badge/GFG-amandiwakar747-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amandiwakar747?tab=activity)
+[![GeeksForGeeks Stats](https://gfgstatscard.vercel.app/amandiwakar747)](https://www.geeksforgeeks.org/profile/amandiwakar747?tab=activity)
 
 </div>
 
-| Metric | Status |
+| Metric | Source |
 |---|---|
-| Coding score | Tracked on GFG profile |
-| Problems solved | Tracked on GFG profile |
-| Streak | Tracked on GFG profile |
-| Monthly score | Tracked on GFG profile |
+| Coding score | GFG stats card and profile |
+| Problems solved | GFG stats card and profile |
+| Streak | GFG profile activity |
+| Monthly score | GFG profile activity |
 
 ## Coding Platforms
 
@@ -164,21 +164,18 @@ DSA_in_C++/CPP
 |---|---|---|
 | LeetCode | Interview patterns and contests | [Gagan747](https://leetcode.com/u/Gagan747/) |
 | GeeksForGeeks | Placement preparation and streaks | [amandiwakar747](https://www.geeksforgeeks.org/profile/amandiwakar747?tab=activity) |
-| Codeforces | Competitive programming speed | Add your profile |
-| AtCoder | Mathematical problem solving | Add your profile |
-| CodeChef | Rated contests | Add your profile |
 
 ## Weekly Activity
 
 <!-- ACTIVITY:START -->
 ```text
-Mon  █░░░░░░░░░
-Tue  ░░░░░░░░░░
-Wed  ░░░░░░░░░░
-Thu  ░░░░░░░░░░
-Fri  ░░░░░░░░░░
-Sat  ░░░░░░░░░░
-Sun  ░░░░░░░░░░
+Mon  ##--------
+Tue  ----------
+Wed  ----------
+Thu  ----------
+Fri  ----------
+Sat  ----------
+Sun  ----------
 ```
 <!-- ACTIVITY:END -->
 
@@ -186,8 +183,8 @@ Sun  ░░░░░░░░░░
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|---|
-| Current | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| Previous | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| Current | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Previous | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 Generated heatmap:
 
@@ -200,7 +197,7 @@ Every solution should include:
 | Field | Description |
 |---|---|
 | Problem Name | Exact problem title |
-| Platform | LeetCode, GFG, Codeforces, AtCoder, CodeChef, or custom |
+| Platform | LeetCode, GFG, or custom |
 | Difficulty | Easy, Medium, Hard, or contest rating |
 | Approach | Short explanation of the idea |
 | Time Complexity | Big-O runtime |
