@@ -1,0 +1,508 @@
+{
+  "total_solved": 72,
+  "by_difficulty": {
+    "Easy": 27,
+    "Medium": 38,
+    "Hard": 5
+  },
+  "by_category": {
+    "Array": 12,
+    "String": 7,
+    "General": 10,
+    "Linked List": 7,
+    "Backtracking": 8,
+    "Math": 2,
+    "Tree": 17,
+    "Dynamic Programming": 7,
+    "Bit Manipulation": 2
+  },
+  "problems": [
+    {
+      "number": 1,
+      "name": "Two Sum",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 8,
+      "name": "String to Integer (atoi)",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 9,
+      "name": "Palindrome Number",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 15,
+      "name": "3Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 17,
+      "name": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 18,
+      "name": "4Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 19,
+      "name": "Remove Nth Node From End of List",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 22,
+      "name": "Generate Parentheses",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 26,
+      "name": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 31,
+      "name": "Next Permutation",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 39,
+      "name": "Combination Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 40,
+      "name": "Combination Sum II",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 46,
+      "name": "Permutations",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 48,
+      "name": "Rotate Image",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 50,
+      "name": "Pow(x, n)",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 51,
+      "name": "N-Queens",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 53,
+      "name": "Maximum Subarray",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 62,
+      "name": "Unique Paths",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 64,
+      "name": "Minimum Path Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 69,
+      "name": "Sqrt(x)",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 70,
+      "name": "Climbing Stairs",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 73,
+      "name": "Set Matrix Zeroes",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 75,
+      "name": "Sort Colors",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 78,
+      "name": "Subsets",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 79,
+      "name": "Word Search",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 88,
+      "name": "Merge Sorted Array",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 94,
+      "name": "Binary Tree Inorder Traversal",
+      "difficulty": "Unknown"
+    },
+    {
+      "number": 100,
+      "name": "Same Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 101,
+      "name": "Symmetric Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 102,
+      "name": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 103,
+      "name": "Binary Tree Zigzag Level Order Traversal",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 104,
+      "name": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 110,
+      "name": "Balanced Binary Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 118,
+      "name": "Pascal's Triangle",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 120,
+      "name": "Triangle",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 124,
+      "name": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 131,
+      "name": "Palindrome Partitioning",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 139,
+      "name": "Word Break",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 141,
+      "name": "Linked List Cycle",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 144,
+      "name": "Binary Tree Preorder Traversal",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 145,
+      "name": "Binary Tree Postorder Traversal",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 148,
+      "name": "Sort List",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 189,
+      "name": "Rotate Array",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 191,
+      "name": "Number of 1 Bits",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 198,
+      "name": "House Robber",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 199,
+      "name": "Binary Tree Right Side View",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 206,
+      "name": "Reverse Linked List",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 216,
+      "name": "Combination Sum III",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 229,
+      "name": "Majority Element II",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 234,
+      "name": "Palindrome Linked List",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 268,
+      "name": "Missing Number",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 283,
+      "name": "Move Zeroes",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 328,
+      "name": "Odd Even Linked List",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 416,
+      "name": "Partition Equal Subset Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 485,
+      "name": "Max Consecutive Ones",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 509,
+      "name": "Fibonacci Number",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 543,
+      "name": "Diameter of Binary Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 560,
+      "name": "Subarray Sum Equals K",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 876,
+      "name": "Middle of the Linked List",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 931,
+      "name": "Minimum Falling Path Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 965,
+      "name": "Univalued Binary Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 987,
+      "name": "Vertical Order Traversal of a Binary Tree",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 1281,
+      "name": "Subtract the Product and Sum of Digits\u2026",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 1345,
+      "name": "Jump Game IV",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 1721,
+      "name": "Swapping Nodes in a Linked List",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 1752,
+      "name": "Check if Array Is Sorted and Rotated",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 1922,
+      "name": "Count Good Numbers",
+      "difficulty": "Unknown"
+    },
+    {
+      "number": 2095,
+      "name": "Delete the Middle Node of a Linked List",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 2149,
+      "name": "Rearrange Array Elements by Sign",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 2540,
+      "name": "Minimum Common Value",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 2657,
+      "name": "Find the Prefix Common Array of Two \u2026",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 3459,
+      "name": "Length of Longest V-Shaped Diagonal \u2026",
+      "difficulty": "Hard"
+    },
+    {
+      "number": "GFG-001",
+      "name": "Balanced Parenthese",
+      "difficulty": "GFG",
+      "category": "Stack"
+    },
+    {
+      "number": "GFG-002",
+      "name": "Binary search Modified",
+      "difficulty": "GFG",
+      "category": "BinarySearch"
+    },
+    {
+      "number": "GFG-003",
+      "name": "count inversion",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-004",
+      "name": "count K subset",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-005",
+      "name": "distinct subset sum",
+      "difficulty": "GFG",
+      "category": "DynamicProgramming"
+    },
+    {
+      "number": "GFG-006",
+      "name": "Equilibrium point",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-007",
+      "name": "find missing number",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-008",
+      "name": "floor num",
+      "difficulty": "GFG",
+      "category": "BinarySearch"
+    },
+    {
+      "number": "GFG-009",
+      "name": "get min diff",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-010",
+      "name": "k sized subarray max",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-011",
+      "name": "k th smallest element",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-012",
+      "name": "Longest sub array of Sum K",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-013",
+      "name": "max 1s in 2D arr",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-014",
+      "name": "max prod sub arr",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-015",
+      "name": "minimum platoforms",
+      "difficulty": "GFG",
+      "category": "General"
+    },
+    {
+      "number": "GFG-016",
+      "name": "missing and repeating ele in arr",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-017",
+      "name": "Peak element",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-018",
+      "name": "remoing loop LL",
+      "difficulty": "GFG",
+      "category": "LinkedList"
+    },
+    {
+      "number": "GFG-019",
+      "name": "ROTATE ARR",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-020",
+      "name": "Second largest element",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    },
+    {
+      "number": "GFG-021",
+      "name": "union arr sorted",
+      "difficulty": "GFG",
+      "category": "Arrays"
+    }
+  ],
+  "total_gfg": 21
+}
