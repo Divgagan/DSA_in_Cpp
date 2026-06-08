@@ -172,7 +172,7 @@ DSA_in_C++/CPP
 
 <!-- ACTIVITY:START -->
 ```text
-Mon  ░░░░░░░░░░
+Mon  █░░░░░░░░░
 Tue  ░░░░░░░░░░
 Wed  ░░░░░░░░░░
 Thu  ░░░░░░░░░░
