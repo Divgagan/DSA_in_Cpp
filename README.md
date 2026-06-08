@@ -186,9 +186,13 @@ Sun  ----------
 | Current | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Previous | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
-Generated heatmap:
+## Activity Heatmap
 
-![Local contribution heatmap](assets/heatmap.svg)
+<div align="center">
+
+![GitHub contribution heatmap](https://ghchart.rshah.org/22C55E/Divgagan)
+
+</div>
 
 ## Problem Documentation Standard
 
