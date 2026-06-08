@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.out
+*.o
+*.obj
+build/
+cmake-build-*/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

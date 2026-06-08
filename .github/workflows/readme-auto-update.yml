@@ -1,0 +1,37 @@
+name: README Auto Update
+
+on:
+  schedule:
+    - cron: "15 1 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate stats and sync README
+        run: |
+          python scripts/update_stats.py
+          python scripts/generate_heatmap.py
+          python scripts/sync_readme.py
+
+      - name: Commit generated README updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update README metrics"
+          file_pattern: "README.md assets/heatmap.svg assets/repository_metrics.json"

@@ -1,0 +1,30 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DSA in C++ hero banner</title>
+  <desc id="desc">A dark professional banner with graph nodes, code blocks, and data structure motifs.</desc>
+  <rect width="1280" height="360" fill="#0B1020"/>
+  <rect x="0" y="0" width="1280" height="360" fill="url(#grid)" opacity="0.55"/>
+  <path d="M120 250C220 130 300 290 420 170C540 50 620 250 760 140C900 30 1010 210 1160 90" stroke="#38BDF8" stroke-width="4" opacity="0.75"/>
+  <g fill="#22C55E">
+    <circle cx="120" cy="250" r="10"/>
+    <circle cx="420" cy="170" r="10"/>
+    <circle cx="760" cy="140" r="10"/>
+    <circle cx="1160" cy="90" r="10"/>
+  </g>
+  <g opacity="0.9">
+    <rect x="84" y="72" width="230" height="116" rx="8" fill="#111827" stroke="#334155"/>
+    <text x="110" y="112" fill="#E5E7EB" font-family="Consolas, monospace" font-size="22">vector&lt;int&gt; dp;</text>
+    <text x="110" y="150" fill="#93C5FD" font-family="Consolas, monospace" font-size="18">O(log n) • O(1)</text>
+  </g>
+  <g opacity="0.9">
+    <rect x="906" y="190" width="250" height="96" rx="8" fill="#111827" stroke="#334155"/>
+    <text x="932" y="232" fill="#E5E7EB" font-family="Consolas, monospace" font-size="22">Graphs • DP • Trees</text>
+    <text x="932" y="262" fill="#A7F3D0" font-family="Consolas, monospace" font-size="18">C++17 patterns</text>
+  </g>
+  <text x="640" y="148" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">DSA in C++</text>
+  <text x="640" y="206" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Structured practice. Clean solutions. Portfolio-ready engineering.</text>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+  </defs>
+</svg>

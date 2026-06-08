@@ -1,0 +1,188 @@
+{
+  "generated_on": "2026-06-08",
+  "topics": 25,
+  "cpp_files": 26,
+  "markdown_files": 27,
+  "total_solved": 0,
+  "total_target": 865,
+  "completion": 0,
+  "topic_rows": [
+    {
+      "topic": "Arrays",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 50,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Strings",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 40,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "LinkedList",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 30,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Stack",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Queue",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 20,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Trees",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 45,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "BST",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Heap",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Hashing",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 35,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Recursion",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 30,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Backtracking",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 30,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Greedy",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 35,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "BinarySearch",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 35,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "SlidingWindow",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "TwoPointers",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "BitManipulation",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Graphs",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 60,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "DynamicProgramming",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 75,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Tries",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 20,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "SegmentTree",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 25,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "DisjointSet",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 20,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "Math",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 35,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "PatternWise",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 50,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "ContestProblems",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 50,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    },
+    {
+      "topic": "General",
+      "status": "In Progress",
+      "solved": 0,
+      "target": 30,
+      "progress": "`\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0%"
+    }
+  ],
+  "stats_markdown": "| Metric | Value |\n|---|---:|\n| Total topic folders | 25 |\n| C++ solution files | 26 |\n| Markdown guides | 27 |\n| Completion | 0% |\n| Last generated | 2026-06-08 |",
+  "roadmap_markdown": "| Topic | Status | Solved | Target | Progress |\n|---|---|---:|---:|---|\n| Arrays | In Progress | 0 | 50 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Strings | In Progress | 0 | 40 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| LinkedList | In Progress | 0 | 30 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Stack | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Queue | In Progress | 0 | 20 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Trees | In Progress | 0 | 45 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| BST | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Heap | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Hashing | In Progress | 0 | 35 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Recursion | In Progress | 0 | 30 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Backtracking | In Progress | 0 | 30 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Greedy | In Progress | 0 | 35 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| BinarySearch | In Progress | 0 | 35 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| SlidingWindow | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| TwoPointers | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| BitManipulation | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Graphs | In Progress | 0 | 60 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| DynamicProgramming | In Progress | 0 | 75 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Tries | In Progress | 0 | 20 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| SegmentTree | In Progress | 0 | 25 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| DisjointSet | In Progress | 0 | 20 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| Math | In Progress | 0 | 35 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| PatternWise | In Progress | 0 | 50 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| ContestProblems | In Progress | 0 | 50 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |\n| General | In Progress | 0 | 30 | `\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591` 0% |"
+}
