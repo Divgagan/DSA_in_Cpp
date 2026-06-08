@@ -2,7 +2,7 @@
   "generated_on": "2026-06-08",
   "topics": 25,
   "cpp_files": 26,
-  "markdown_files": 40,
+  "markdown_files": 41,
   "total_solved": 0,
   "total_target": 865,
   "completion": 0,
@@ -183,6 +183,6 @@
       "progress": "`[----------]` 0%"
     }
   ],
-  "stats_markdown": "| Metric | Value |\n|---|---:|\n| Total topic folders | 25 |\n| C++ solution files | 26 |\n| Markdown guides | 40 |\n| Completion | 0% |\n| Last generated | 2026-06-08 |",
+  "stats_markdown": "| Metric | Value |\n|---|---:|\n| Total topic folders | 25 |\n| C++ solution files | 26 |\n| Markdown guides | 41 |\n| Completion | 0% |\n| Last generated | 2026-06-08 |",
   "roadmap_markdown": "| Topic | Status | Solved | Target | Progress |\n|---|---|---:|---:|---|\n| Arrays | In Progress | 0 | 50 | `[----------]` 0% |\n| Strings | In Progress | 0 | 40 | `[----------]` 0% |\n| LinkedList | In Progress | 0 | 30 | `[----------]` 0% |\n| Stack | In Progress | 0 | 25 | `[----------]` 0% |\n| Queue | In Progress | 0 | 20 | `[----------]` 0% |\n| Trees | In Progress | 0 | 45 | `[----------]` 0% |\n| BST | In Progress | 0 | 25 | `[----------]` 0% |\n| Heap | In Progress | 0 | 25 | `[----------]` 0% |\n| Hashing | In Progress | 0 | 35 | `[----------]` 0% |\n| Recursion | In Progress | 0 | 30 | `[----------]` 0% |\n| Backtracking | In Progress | 0 | 30 | `[----------]` 0% |\n| Greedy | In Progress | 0 | 35 | `[----------]` 0% |\n| BinarySearch | In Progress | 0 | 35 | `[----------]` 0% |\n| SlidingWindow | In Progress | 0 | 25 | `[----------]` 0% |\n| TwoPointers | In Progress | 0 | 25 | `[----------]` 0% |\n| BitManipulation | In Progress | 0 | 25 | `[----------]` 0% |\n| Graphs | In Progress | 0 | 60 | `[----------]` 0% |\n| DynamicProgramming | In Progress | 0 | 75 | `[----------]` 0% |\n| Tries | In Progress | 0 | 20 | `[----------]` 0% |\n| SegmentTree | In Progress | 0 | 25 | `[----------]` 0% |\n| DisjointSet | In Progress | 0 | 20 | `[----------]` 0% |\n| Math | In Progress | 0 | 35 | `[----------]` 0% |\n| PatternWise | In Progress | 0 | 50 | `[----------]` 0% |\n| ContestProblems | In Progress | 0 | 50 | `[----------]` 0% |\n| General | In Progress | 0 | 30 | `[----------]` 0% |"
 }
