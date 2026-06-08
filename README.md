@@ -7,8 +7,7 @@
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Gagan747-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-amandiwakar747-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Daily Updated](https://img.shields.io/badge/Daily%20Updated-Yes-00C853?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Portfolio%20Ready-7C3AED?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/Automation-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![GitHub stars](https://img.shields.io/github/stars/Divgagan/DSA_in_Cpp?style=flat-square&logo=github)
 ![Repository size](https://img.shields.io/github/repo-size/Divgagan/DSA_in_Cpp?style=flat-square&logo=github)
@@ -204,28 +203,26 @@ Every solution should include:
 
 Use [templates/problem.md](templates/problem.md) and [templates/solution.cpp](templates/solution.cpp) for every new problem.
 
-## Contribution Philosophy
+## Solution Guidelines
 
-This repository values clarity, consistency, and learning depth. A good solution here is not only accepted by an online judge; it is readable, documented, edge-case aware, and easy for another learner or interviewer to understand.
-
-Preferred contribution style:
+Each solution should be easy to review and compare with other approaches.
 
 | Principle | Standard |
 |---|---|
 | Correctness first | Include edge cases and constraints |
-| Explain the idea | Keep approach notes concise and useful |
+| Explain the idea | Keep notes short and specific |
 | Complexity matters | Add time and space complexity |
-| Topic discipline | Place solutions in the most relevant folder |
-| Maintainability | Use stable naming and reusable templates |
+| Topic placement | Put each problem in the closest matching folder |
+| Naming | Use readable filenames such as `Two_Sum.cpp` |
 
 ## Automation
 
 | Workflow | Purpose |
 |---|---|
 | README auto-update | Regenerates stats, roadmap, and activity blocks |
-| LeetCode stats refresh | Keeps profile widgets and generated stats fresh |
-| Contribution graph generation | Builds a local SVG heatmap |
-| Repository metrics generation | Produces JSON metrics for portfolio use |
+| LeetCode stats refresh | Updates generated LeetCode metadata |
+| Contribution graph generation | Updates activity visuals |
+| Repository metrics generation | Writes topic and file-count metrics |
 
 Run locally:
 
@@ -234,13 +231,3 @@ python scripts/update_stats.py
 python scripts/generate_heatmap.py
 python scripts/sync_readme.py
 ```
-
-## Footer
-
-<div align="center">
-
-**Built for disciplined DSA practice, clean C++ thinking, and portfolio-grade visibility.**
-
-Created and maintained by [Gagan Diwakar](https://github.com/Divgagan). Connect on [LinkedIn](https://www.linkedin.com/in/gagan-diwakar-772134293/).
-
-</div>
