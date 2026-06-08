@@ -133,15 +133,9 @@ DSA_in_C++/CPP
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Gagan747?theme=dark&font=Inter&ext=contest)
 
-</div>
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Gagan747?theme=dark&font=Inter&ext=heatmap)
 
-| Metric | Widget |
-|---|---|
-| Total solved | Included in LeetCode card |
-| Ranking | Included in LeetCode card |
-| Contest rating | Included through contest extension |
-| Easy / Medium / Hard | Included in LeetCode card |
-| Heatmap | Available on the LeetCode profile |
+</div>
 
 ## GeeksForGeeks Profile
 
