@@ -37,7 +37,7 @@ built for placement interviews, competitive programming, and continuous learning
 |---|---:|
 | Total topic folders | 25 |
 | C++ solution files | 48 |
-| Markdown guides | 42 |
+| Markdown guides | 47 |
 | Completion | 3% |
 | Last generated | 2026-06-09 |
 <!-- STATS:END -->
@@ -164,7 +164,7 @@ DSA_in_C++/CPP
 <!-- ACTIVITY:START -->
 ```text
 Mon  ##########
-Tue  ----------
+Tue  ##########
 Wed  ----------
 Thu  ----------
 Fri  ----------
