@@ -12,4 +12,4 @@
 | 1922 | Count Good Numbers | Unknown | |
 | 2540 | Minimum Common Value | Easy | |
 | 3459 | Length of Longest V-Shaped Diagonal … | Hard | |
-| GFG-015 | minimum platoforms | GFG | |
+| GFG-015 | minimum platoforms | GFG | ✅ Solved |

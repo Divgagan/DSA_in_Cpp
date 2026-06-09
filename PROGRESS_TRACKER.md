@@ -1,8 +1,8 @@
 # 📊 DSA Progress Tracker
 
-**Last Updated:** 2026-06-08  
-**Total Problems:** 93 (72 LeetCode + 21 GeeksForGeeks)  
-**Completion Rate:** 93/93 problems listed, awaiting solutions
+**Last Updated:** 2026-06-09  
+**Total Problems:** 94 (72 LeetCode + 22 GeeksForGeeks)  
+**Completion Rate:** 22/94 problems solved (23% solved, 72 awaiting solutions)
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|------:|
-| **Total Problems Listed** | 93 |
+| **Total Problems Listed** | 94 |
 | **LeetCode Problems** | 72 |
-| **GeeksForGeeks Problems** | 21 |
+| **GeeksForGeeks Problems** | 22 |
 | **Easy** | 27 |
 | **Medium** | 38 |
 | **Hard** | 5 |
-| **Unknown/GFG** | 23 |
+| **Unknown/GFG** | 24 |
 
 ---
 
@@ -25,19 +25,20 @@
 ### 1. **Arrays** - 27 Problems
 - **LeetCode:** 12 problems
 - **GFG:** 15 problems
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/27 - 0%]`
+- **Status:** 🔄 15/27 solved
+- **Progress:** `[#####-----]` 56%
 
-### 2. **Trees** - 17 Problems
+### 2. **Trees** - 18 Problems
 - **LeetCode:** 17 problems
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/17 - 0%]`
+- **GFG:** 1 problem
+- **Status:** 🔄 1/18 solved
+- **Progress:** `[|---------]` 6%
 
 ### 3. **General** - 11 Problems
 - **LeetCode:** 10 problems
 - **GFG:** 1 problem
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/11 - 0%]`
+- **Status:** 🔄 1/11 solved
+- **Progress:** `[|---------]` 9%
 
 ### 4. **Backtracking** - 8 Problems
 - **LeetCode:** 8 problems
@@ -52,24 +53,24 @@
 ### 6. **Linked List** - 8 Problems
 - **LeetCode:** 7 problems
 - **GFG:** 1 problem
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/8 - 0%]`
+- **Status:** 🔄 1/8 solved
+- **Progress:** `[#---------]` 12%
 
 ### 7. **Dynamic Programming** - 8 Problems
 - **LeetCode:** 7 problems
 - **GFG:** 1 problem
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/8 - 0%]`
+- **Status:** 🔄 1/8 solved
+- **Progress:** `[#---------]` 12%
 
 ### 8. **Binary Search** - 2 Problems
 - **GFG:** 2 problems
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/2 - 0%]`
+- **Status:** ✅ Solved
+- **Progress:** `[##########]` 100%
 
 ### 9. **Stack** - 1 Problem
 - **GFG:** 1 problem
-- **Status:** 📋 Listed, awaiting solutions
-- **Progress:** `[0/1 - 0%]`
+- **Status:** ✅ Solved
+- **Progress:** `[##########]` 100%
 
 ### 10. **Math** - 2 Problems
 - **LeetCode:** 2 problems
@@ -106,7 +107,7 @@ GFG ███░░░░░░░░░░░░░░░░░░░░░░�
 | Hard | 5 |
 | **Total** | **70** |
 
-### GeeksForGeeks (21 problems)
+### GeeksForGeeks (22 problems)
 **Profile:** [amandiwakar747](https://www.geeksforgeeks.org/profile/amandiwakar747/)
 
 - All problems extracted from GFG/folder

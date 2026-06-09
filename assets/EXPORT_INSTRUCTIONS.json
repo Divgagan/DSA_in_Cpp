@@ -1,0 +1,26 @@
+{
+  "method": "MANUAL EXPORT - Automatic API export has restrictions",
+  "steps": [
+    "1. Visit: https://leetcode.com/u/Gagan747/",
+    "2. Scroll to 'Solved Problems' section",
+    "3. Click the problems list",
+    "4. Open Browser DevTools (F12)",
+    "5. Go to Network tab",
+    "6. Refresh the page",
+    "7. Look for requests to 'graphql'",
+    "8. Find the response with problem data",
+    "9. Copy and save as JSON",
+    "",
+    "EASIER ALTERNATIVE:",
+    "- Use LeetCode Export Chrome Extension",
+    "- Or manually copy-paste from the Problems page"
+  ],
+  "sample_problem_structure": {
+    "id": "1",
+    "title": "Two Sum",
+    "titleSlug": "two-sum",
+    "difficulty": "Easy",
+    "category": "Array",
+    "solved_date": "2024-01-15"
+  }
+}

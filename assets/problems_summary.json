@@ -502,7 +502,13 @@
       "name": "union arr sorted",
       "difficulty": "GFG",
       "category": "Arrays"
+    },
+    {
+      "number": "GFG-022",
+      "name": "Root to Leaf Paths",
+      "difficulty": "GFG",
+      "category": "Trees"
     }
   ],
-  "total_gfg": 21
+  "total_gfg": 22
 }

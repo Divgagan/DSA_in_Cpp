@@ -9,4 +9,4 @@
 | 876 | Middle of the Linked List | Easy | |
 | 1721 | Swapping Nodes in a Linked List | Medium | |
 | 2095 | Delete the Middle Node of a Linked List | Medium | |
-| GFG-018 | remoing loop LL | GFG | |
+| GFG-018 | remoing loop LL | GFG | ✅ Solved |

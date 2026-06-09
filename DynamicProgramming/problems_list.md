@@ -9,4 +9,4 @@
 | 416 | Partition Equal Subset Sum | Medium | |
 | 509 | Fibonacci Number | Easy | |
 | 1345 | Jump Game IV | Hard | |
-| GFG-005 | distinct subset sum | GFG | |
+| GFG-005 | distinct subset sum | GFG | ✅ Solved |

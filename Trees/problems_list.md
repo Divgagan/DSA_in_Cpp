@@ -19,3 +19,4 @@
 | 931 | Minimum Falling Path Sum | Medium | |
 | 965 | Univalued Binary Tree | Easy | |
 | 987 | Vertical Order Traversal of a Binary Tree | Hard | |
+| GFG-022 | Root to Leaf Paths | GFG | ✅ Solved |

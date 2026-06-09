@@ -35,13 +35,10 @@ built for placement interviews, competitive programming, and continuous learning
 | Metric | Value |
 |---|---:|
 | Total topic folders | 25 |
-| Problems Listed | 93 |
-| LeetCode Problems | 72 |
-| GeeksForGeeks Problems | 21 |
-| Easy | 27 |
-| Medium | 38 |
-| Hard | 5 |
-| Last generated | 2026-06-08 |
+| C++ solution files | 48 |
+| Markdown guides | 42 |
+| Completion | 3% |
+| Last generated | 2026-06-09 |
 <!-- STATS:END -->
 
 ## Tech Stack
@@ -92,35 +89,33 @@ DSA_in_C++/CPP
 ## DSA Roadmap Tracker
 
 <!-- ROADMAP:START -->
-| Topic | Listed | Target | Progress | Details |
-|---|---:|---:|---|---|
-| Arrays | 27 | 50 | `████░░░░░░` 54% | 12 LC + 15 GFG |
-| Trees | 17 | 45 | `████░░░░░░░░░░░` 38% | 17 LeetCode |
-| Strings | 7 | 40 | `░░░░░░░░░░░░░░░░` 18% | 7 LeetCode |
-| LinkedList | 8 | 30 | `░░░░░░░░░░░░` 27% | 7 LC + 1 GFG |
-| Stack | 1 | 25 | `░░░░░░░░░░░░░░░░` 4% | 1 GFG |
-| Queue | 0 | 20 | `░░░░░░░░░░░░░░░░` 0% | - |
-| Backtracking | 8 | 30 | `░░░░░░░░░░░░░░` 27% | 8 LeetCode |
-| Greedy | 0 | 35 | `░░░░░░░░░░░░░░░░` 0% | - |
-| BinarySearch | 2 | 35 | `░░░░░░░░░░░░░░░░` 6% | 2 GFG |
-| SlidingWindow | 0 | 25 | `░░░░░░░░░░░░░░░░` 0% | - |
-| TwoPointers | 0 | 25 | `░░░░░░░░░░░░░░░░` 0% | - |
-| BitManipulation | 2 | 25 | `░░░░░░░░░░░░░░░░` 8% | 2 LeetCode |
-| Graphs | 0 | 60 | `░░░░░░░░░░░░░░░░` 0% | - |
-| DynamicProgramming | 8 | 75 | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 11% | 7 LC + 1 GFG |
-| Tries | 0 | 20 | `░░░░░░░░░░░░░░░░` 0% | - |
-| SegmentTree | 0 | 25 | `░░░░░░░░░░░░░░░░` 0% | - |
-| DisjointSet | 0 | 20 | `░░░░░░░░░░░░░░░░` 0% | - |
-| Math | 2 | 35 | `░░░░░░░░░░░░░░░░` 6% | 2 LeetCode |
-| Recursion | 0 | 30 | `░░░░░░░░░░░░░░░░` 0% | - |
-| BST | 0 | 25 | `░░░░░░░░░░░░░░░░` 0% | - |
-| Heap | 0 | 25 | `░░░░░░░░░░░░░░░░` 0% | - |
-| Hashing | 0 | 35 | `░░░░░░░░░░░░░░░░` 0% | - |
-| General | 11 | - | - | Uncategorized |
-
-**Status:** 📋 All 93 problems listed, awaiting C++ solutions
-**Overall:** `███░░░░░░░░░░░░░░░░░░░░░░░░░░` 15% (93 listed)
-| General | In Progress | 0 | 30 | `[----------]` 0% |
+| Topic | Status | Solved | Target | Progress |
+|---|---|---:|---:|---|
+| Arrays | In Progress | 15 | 50 | `[###-------]` 30% |
+| Strings | In Progress | 0 | 40 | `[----------]` 0% |
+| LinkedList | In Progress | 1 | 30 | `[----------]` 3% |
+| Stack | In Progress | 1 | 25 | `[----------]` 4% |
+| Queue | In Progress | 0 | 20 | `[----------]` 0% |
+| Trees | In Progress | 1 | 45 | `[----------]` 2% |
+| BST | In Progress | 0 | 25 | `[----------]` 0% |
+| Heap | In Progress | 0 | 25 | `[----------]` 0% |
+| Hashing | In Progress | 0 | 35 | `[----------]` 0% |
+| Recursion | In Progress | 0 | 30 | `[----------]` 0% |
+| Backtracking | In Progress | 0 | 30 | `[----------]` 0% |
+| Greedy | In Progress | 0 | 35 | `[----------]` 0% |
+| BinarySearch | In Progress | 2 | 35 | `[#---------]` 6% |
+| SlidingWindow | In Progress | 0 | 25 | `[----------]` 0% |
+| TwoPointers | In Progress | 0 | 25 | `[----------]` 0% |
+| BitManipulation | In Progress | 0 | 25 | `[----------]` 0% |
+| Graphs | In Progress | 0 | 60 | `[----------]` 0% |
+| DynamicProgramming | In Progress | 1 | 75 | `[----------]` 1% |
+| Tries | In Progress | 0 | 20 | `[----------]` 0% |
+| SegmentTree | In Progress | 0 | 25 | `[----------]` 0% |
+| DisjointSet | In Progress | 0 | 20 | `[----------]` 0% |
+| Math | In Progress | 0 | 35 | `[----------]` 0% |
+| PatternWise | In Progress | 0 | 50 | `[----------]` 0% |
+| ContestProblems | In Progress | 0 | 50 | `[----------]` 0% |
+| General | In Progress | 1 | 30 | `[----------]` 3% |
 <!-- ROADMAP:END -->
 
 ## Progress Tracking
@@ -167,7 +162,7 @@ DSA_in_C++/CPP
 
 <!-- ACTIVITY:START -->
 ```text
-Mon  #######---
+Mon  ##########
 Tue  ----------
 Wed  ----------
 Thu  ----------

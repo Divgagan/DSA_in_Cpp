@@ -1,0 +1,21 @@
+{
+  "leetcode": {
+    "username": "Gagan747",
+    "total_solved": 103,
+    "easy": 43,
+    "medium": 52,
+    "hard": 8
+  },
+  "geeksforgeeks": {
+    "username": "amandiwakar747",
+    "total_solved": 31
+  },
+  "total_problems": 134,
+  "last_updated": "2026-06-08",
+  "next_steps": [
+    "1. Go to https://leetcode.com/u/Gagan747/",
+    "2. Copy your solved problems list",
+    "3. Paste into import_problems.py",
+    "4. Run python import_problems.py to organize by topic"
+  ]
+}
