@@ -39,7 +39,7 @@ built for placement interviews, competitive programming, and continuous learning
 | C++ solution files | 49 |
 | Markdown guides | 47 |
 | Completion | 3% |
-| Last generated | 2026-06-12 |
+| Last generated | 2026-06-13 |
 <!-- STATS:END -->
 
 ## Tech Stack
@@ -167,7 +167,7 @@ Mon  ##########
 Tue  ##########
 Wed  #####-----
 Thu  ###-------
-Fri  ----------
+Fri  ###-------
 Sat  ----------
 Sun  ----------
 ```
