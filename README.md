@@ -36,10 +36,10 @@ built for placement interviews, competitive programming, and continuous learning
 | Metric | Value |
 |---|---:|
 | Total topic folders | 25 |
-| C++ solution files | 49 |
+| C++ solution files | 55 |
 | Markdown guides | 47 |
 | Completion | 3% |
-| Last generated | 2026-06-13 |
+| Last generated | 2026-06-14 |
 <!-- STATS:END -->
 
 ## Tech Stack
@@ -97,7 +97,7 @@ DSA_in_C++/CPP
 | LinkedList | In Progress | 1 | 30 | `[----------]` 3% |
 | Stack | In Progress | 1 | 25 | `[----------]` 4% |
 | Queue | In Progress | 0 | 20 | `[----------]` 0% |
-| Trees | In Progress | 2 | 45 | `[----------]` 4% |
+| Trees | In Progress | 8 | 45 | `[##--------]` 18% |
 | BST | In Progress | 0 | 25 | `[----------]` 0% |
 | Heap | In Progress | 0 | 25 | `[----------]` 0% |
 | Hashing | In Progress | 0 | 35 | `[----------]` 0% |
@@ -168,7 +168,7 @@ Tue  ##########
 Wed  #####-----
 Thu  ###-------
 Fri  ###-------
-Sat  ----------
+Sat  #####-----
 Sun  ----------
 ```
 <!-- ACTIVITY:END -->
