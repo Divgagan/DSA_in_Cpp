@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-07-18",
+  "generated_on": "2026-07-19",
   "topics": 25,
   "cpp_files": 55,
   "markdown_files": 47,
@@ -183,6 +183,6 @@
       "progress": "`[----------]` 3%"
     }
   ],
-  "stats_markdown": "| Metric | Value |\n|---|---:|\n| Total topic folders | 25 |\n| C++ solution files | 55 |\n| Markdown guides | 47 |\n| Completion | 3% |\n| Last generated | 2026-07-18 |",
+  "stats_markdown": "| Metric | Value |\n|---|---:|\n| Total topic folders | 25 |\n| C++ solution files | 55 |\n| Markdown guides | 47 |\n| Completion | 3% |\n| Last generated | 2026-07-19 |",
   "roadmap_markdown": "| Topic | Status | Solved | Target | Progress |\n|---|---|---:|---:|---|\n| Arrays | In Progress | 15 | 50 | `[###-------]` 30% |\n| Strings | In Progress | 0 | 40 | `[----------]` 0% |\n| LinkedList | In Progress | 1 | 30 | `[----------]` 3% |\n| Stack | In Progress | 1 | 25 | `[----------]` 4% |\n| Queue | In Progress | 0 | 20 | `[----------]` 0% |\n| Trees | In Progress | 8 | 45 | `[##--------]` 18% |\n| BST | In Progress | 0 | 25 | `[----------]` 0% |\n| Heap | In Progress | 0 | 25 | `[----------]` 0% |\n| Hashing | In Progress | 0 | 35 | `[----------]` 0% |\n| Recursion | In Progress | 0 | 30 | `[----------]` 0% |\n| Backtracking | In Progress | 0 | 30 | `[----------]` 0% |\n| Greedy | In Progress | 0 | 35 | `[----------]` 0% |\n| BinarySearch | In Progress | 2 | 35 | `[#---------]` 6% |\n| SlidingWindow | In Progress | 0 | 25 | `[----------]` 0% |\n| TwoPointers | In Progress | 0 | 25 | `[----------]` 0% |\n| BitManipulation | In Progress | 0 | 25 | `[----------]` 0% |\n| Graphs | In Progress | 0 | 60 | `[----------]` 0% |\n| DynamicProgramming | In Progress | 1 | 75 | `[----------]` 1% |\n| Tries | In Progress | 0 | 20 | `[----------]` 0% |\n| SegmentTree | In Progress | 0 | 25 | `[----------]` 0% |\n| DisjointSet | In Progress | 0 | 20 | `[----------]` 0% |\n| Math | In Progress | 0 | 35 | `[----------]` 0% |\n| PatternWise | In Progress | 0 | 50 | `[----------]` 0% |\n| ContestProblems | In Progress | 0 | 50 | `[----------]` 0% |\n| General | In Progress | 1 | 30 | `[----------]` 3% |"
 }
