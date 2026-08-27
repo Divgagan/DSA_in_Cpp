@@ -39,7 +39,7 @@ built for placement interviews, competitive programming, and continuous learning
 | C++ solution files | 55 |
 | Markdown guides | 47 |
 | Completion | 3% |
-| Last generated | 2026-08-26 |
+| Last generated | 2026-08-27 |
 <!-- STATS:END -->
 
 ## Tech Stack
@@ -165,9 +165,9 @@ DSA_in_C++/CPP
 ```text
 Mon  ######----
 Tue  ######----
-Wed  ###-------
-Thu  ######----
-Fri  ######----
+Wed  ######----
+Thu  ###-------
+Fri  ###-------
 Sat  ######----
 Sun  ######----
 ```
